@@ -1,0 +1,44 @@
+body{
+color:#403a35;          background-color:#c1b3a5;
+height:auto;
+}
+
+body p{
+   text-indent:80px;
+   font-family: Candara;
+   color:#f2efec;
+}
+
+.title{
+font-family:Candara;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: 10px;
+  
+}
+
+figcaption{
+  font-family:Candara;
+}
+
+main h3{
+  font-family:Courier;
+}
+
+a{
+  float:right;
+  text-decoration: none;
+  color:#1c1b21;
+}
+
+
+a:hover {
+  color: #555263;
+  text-decoration:none;
+}
