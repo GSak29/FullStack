@@ -86,9 +86,3 @@ Because:
 * It's completely free
 * It's project-focused and practical
 * It’s backed by a global community and recognized by employers
-
-## Let’s Connect
-
-If you're on a similar journey, feel free to connect or collaborate. Let’s build, break, and learn together!
-
-> "The best way to learn to code is to code. Every single day." — Quincy Larson (Founder of freeCodeCamp)
